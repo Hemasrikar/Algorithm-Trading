@@ -1,5 +1,3 @@
-from itertools import product
-
 # Currency index map
 currencies = ["Snowballs", "Pizza's", "Silicon Nuggets", "SeaShells"]
 currency_index = {name: i for i, name in enumerate(currencies)}
